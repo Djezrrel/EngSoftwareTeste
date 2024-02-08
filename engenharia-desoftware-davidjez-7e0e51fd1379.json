@@ -1,13 +1,1 @@
-{
-  "type": "service_account",
-  "project_id": "engenharia-desoftware-davidjez",
-  "private_key_id": "7e0e51fd1379fd70ec5c013e61a1ade054e8aad4",
-  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvwIBADANBgkqhkiG9w0BAQEFAASCBKkwggSlAgEAAoIBAQCvY7hXlYdkly/P\nIgfypR51hGueYnonCn4jR0qvWiCPdYYR9b5zVVfuoIDGDZCJKrVRiEnv4WyTdfws\nB5tpOG6O+DiGB/8n18fPuK9OIZ4GpmFiW1/cllv1ByvnwNsNwu1fBMj+tOXETpKm\nDpZB8+ylN8DVynTvqWJtdSizKcUNPtI/ixILUDOXCH+TemAGe6X/QqMOfsxwXGyz\n2uEQXdaqEFHUC1IewpN3qfjlGIUC8p4j4CFkUrWH68pMqgEtseHDflWhVOmCxS4j\nX6ONTT9zsb9/UH5ZeoF40h9brYUO7c484h6sdDnwBTm/Tl9cCBOb3b1Y5DXR9GCJ\nHk5PEhZlAgMBAAECggEAAg4bEvFpMmfSyZbJX51JIYWfxx5JZwM6dlh7bWOxrxjO\n9R7BtwPt3lHbnoC3yWeCyYIGRqS7FBVWjg8e1vvonSwXF7PrUyXfFg90BCrpyzH+\ndDVOXdlTlOqLt1D91JTPQm4Bw6KYmdUjdh8jPBF7tWtAyI1Sg9mD2dEgvlGmas2y\nBWUtd4fHutKIfiGHgCuw8tFUTqXiriTVb99igQX1vsgx7Gcp8knZ32L89GuI2rTP\n1oDqo1IURBI3jYXsaXuUv0aOuKawRxhLZjYsuyGL0OPpexGTarsSyOvKdVqM5KsI\nfK7/6o9byjPnQBWqjPWw9FmdUYWBP5gbPBJpNiAY6QKBgQDkU/r5RglCw14Qbc11\nAOFVuW4jB5ppH73LE91gB19I77uVuw3ylkW6CY4daGThmg6ixI1wxN8njH7OZCsh\nDPXzJzMnx/Wh0SZgAolxvPNDGy15VulD6plllGT6Y0aBXaTF0sL4rOPdZ2/d/JIB\nojw5/MOap4WvO2CR2tiCJc8JUwKBgQDEpUoRmbyjvOi46CRHqjWVVkXDe0RGcuRT\nMdaTD50dLOw/rAd/bPqfQGCM+55U0IhZ2bKWCMvxD/XRIxOGou/H5O7ZuxXzEFib\nQsuqfAl5mZnOUzqU7VDUJ0E2ngeyDRsmU03A2sMGAQt/7bAnMQISLHJ38yDZbjOZ\n3oChEjySZwKBgQCC8OZtLg0BjKjVIyNAhlCzqLPQwvt6bgmZ/Lpn59JtMY6SP8Ov\n6x3xoqktlEDGYGMkVTQIB98x/xB5rFhPi+9Akqpzlej388neJZZM899ODLf3bjA4\nEsIFzyRZs7UrW1izWjsWAZBr2HX/CGlzJmcDmkFS3996rsKi4q5ndOdWoQKBgQC8\n6c3uerMu2hz5BotUDcDMZsU+tv0wcM/I3Og2/5kAnleYE7xgPmHG/CHFTzUcZfmX\n1/wpBupl+987u2bWwVF5yAVuRr0fdWSqQ9FFR0QS/e00ueBdkl9EcTHFNqxN8SlT\n+FOKIp+Y9QgHLmE8RWin7OtLMNcuCyCngYoxM0PdoQKBgQDDLq4ZlQWhkU616Y+B\nk0hxz9ixvqHHxm2kz87CFI43qC/IMXTsVwylQBTOMesEt19N447xAexKDm8h+2Ov\nxnI9FgvdSj1dpMxHUHoX51apvW0dkrZrIqtWeoDf0DvTX5RhPbMpP4CCS45VofX2\n/NLjPXoOeEewQzfqw23NyQCRqg==\n-----END PRIVATE KEY-----\n",
-  "client_email": "software-teste@engenharia-desoftware-davidjez.iam.gserviceaccount.com",
-  "client_id": "103306771452567140369",
-  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
-  "token_uri": "https://oauth2.googleapis.com/token",
-  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
-  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/software-teste%40engenharia-desoftware-davidjez.iam.gserviceaccount.com",
-  "universe_domain": "googleapis.com"
-}
+!
