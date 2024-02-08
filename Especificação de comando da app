@@ -1,0 +1,16 @@
+Para executar a aplicação em Python fornecida, você precisa seguir estes passos:
+
+Certifique-se de ter o Python instalado em sua máquina. Você pode baixá-lo em https://www.python.org/downloads/.
+
+Instale as dependências necessárias executando o seguinte comando no terminal (certifique-se de estar no diretório onde o arquivo requirements.txt está localizado):
+
+pip install gspread oauth2client
+
+Agora você pode executar a aplicação. No terminal, navegue até o diretório onde o arquivo calculadora_notas.py está localizado e execute o seguinte comando:
+
+python calculadora_notas.py
+
+Isso irá executar o script Python, que lerá a planilha do Google Sheets, calculará as notas dos alunos e atualizará a planilha com as situações e notas finais. Certifique-se de que seu arquivo JSON de credenciais e a planilha estejam configurados corretamente conforme mencionado no código.
+
+Link do trabalho do google sheets:
+https://docs.google.com/spreadsheets/d/1q1EhlTC1MKn9NptrOPk_7RB4oiqxQ1hiRpWTWRq6e7Q/edit?usp=sharing
