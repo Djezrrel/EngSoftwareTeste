@@ -4,7 +4,7 @@ from oauth2client.service_account import ServiceAccountCredentials
 # Define o escopo e as credenciais para a API do Google Sheets
 scope = ['https://spreadsheets.google.com/feeds',
          'https://www.googleapis.com/auth/drive']
-credentials_path = 'C:\\Users\\David\\Documents\\Engenharia de Software teste\\engenharia-desoftware-davidjez-7e0e51fd1379.json'  # Caminho para o seu arquivo JSON de credenciais
+credentials_path = 'C:\\Users\\David\\Documents\\Software\\engenharia-desoftware-davidjez-7e0e51fd1379.json'  # Caminho para o seu arquivo JSON de credenciais
 creds = ServiceAccountCredentials.from_json_keyfile_name(credentials_path, scope)
 client = gspread.authorize(creds)
 
